@@ -1,4 +1,4 @@
-# Predictive Modeling Using Classification Algorithms
+<img width="905" height="517" alt="Screenshot 2025-11-30 at 11 42 36 PM" src="https://github.com/user-attachments/assets/5ade8d58-fe6a-42d0-8630-65df83ef235b" /># Predictive Modeling Using Classification Algorithms
 ### Credit Mix Prediction | End-to-End Machine Learning Pipeline
 
 ---
@@ -100,13 +100,14 @@ F1 Score (weighted): 0.7035
 
 ## 📌 Model Comparison Table
 
-![Model Comparison](images/model_comparison.png)
+<img width="488" height="239" alt="s2" src="https://github.com/user-attachments/assets/fdcbc4b4-aad3-4b7f-b2d2-6c0578313043" />
+
 
 ---
 
 ## 📌 Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+<img width="905" height="517" alt="Screenshot 2025-11-30 at 11 42 36 PM" src="https://github.com/user-attachments/assets/17e13f4a-2433-4b93-ac5a-561a52f7cb9b" />
 
 ---
 
