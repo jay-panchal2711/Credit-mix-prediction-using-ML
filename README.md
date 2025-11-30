@@ -1,4 +1,4 @@
-<img width="905" height="517" alt="Screenshot 2025-11-30 at 11 42 36 PM" src="https://github.com/user-attachments/assets/5ade8d58-fe6a-42d0-8630-65df83ef235b" /># Predictive Modeling Using Classification Algorithms
+Predictive Modeling Using Classification Algorithms
 ### Credit Mix Prediction | End-to-End Machine Learning Pipeline
 
 ---
