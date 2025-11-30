@@ -93,8 +93,6 @@ F1 Score (weighted): 0.7035
 
 ## 📌 Confusion Matrix (Tuned Random Forest)
 
-![Confusion Matrix](images/confusion_matrix.png)
-
 *<img width="497" height="600" alt="Screenshot 2025-11-30 at 10 53 28 PM" src="https://github.com/user-attachments/assets/498b2a08-7468-473e-b130-1c135af23d6f" />
 *
 
